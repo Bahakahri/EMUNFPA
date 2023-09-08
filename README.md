@@ -1,2 +1,2 @@
-# EMUNFPA
-Data Cleansing, Python Automation, and Visual Insights: Enhancing Disease Database Analysis with Excess Mortality Excel Table
+# Data Cleansing, Python Automation, and Visual Insights: Enhancing Disease Database Analysis with Excess Mortality Excel Table
+Led a comprehensive data enhancement initiative by conducting rigorous cleansing and preprocessing of certificates of disease database, ensuring data quality and consistency for precise analysis. Leveraging Python scripting and data manipulation libraries such as Pandas, I optimized data cleaning. 
